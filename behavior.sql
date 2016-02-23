@@ -9,7 +9,6 @@ Source Database       : behavior
 Target Server Type    : MYSQL
 Target Server Version : 50544
 File Encoding         : 65001
-
 Date: 2016-02-23 10:55:18
 */
 
